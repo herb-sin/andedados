@@ -35,11 +35,13 @@ git clone [URL_DO_REPOSITÓRIO]
 cd [NOME_DO_REPOSITÓRIO]
 conda env create -f pgsea_env.yml
 conda activate pgsea_env
+
 2. Executar o Jupyter Notebook
 Abra o Jupyter Notebook e execute o arquivo pgqa.ipynb:
 
 bash
 jupyter notebook
+
 3. Passo a Passo no Notebook
 O notebook está dividido em células que realizam as seguintes tarefas:
 

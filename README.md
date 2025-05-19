@@ -1,4 +1,4 @@
-Monitoramento da Qualidade da Água das Praias de Praia Grande
+Monitoramento da Qualidade da água das praias da cidade de Praia Grande
 Este projeto tem como objetivo automatizar a coleta de dados sobre a qualidade da água das praias de Praia Grande, disponibilizados pela CETESB (Companhia Ambiental do Estado de São Paulo), e transformá-los em um formato estruturado para análise.
 
 📌 Visão Geral

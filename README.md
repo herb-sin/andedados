@@ -13,7 +13,7 @@ Requests: Biblioteca para fazer requisições HTTP à API da CETESB.
 
 Pandas: Manipulação e análise de dados.
 
-BeautifulSoup: Parsing de conteúdo HTML (usado como fallback). - NÃO É EXECUTADO
+BeautifulSoup: Parsing de conteúdo HTML (usado como fallback). = NÃO-IMPLEMENTADO
 
 Jupyter Notebook: Ambiente interativo para desenvolvimento e teste do código.
 
